@@ -1,29 +1,24 @@
-# Fabric Entry UI
+# ui
 
-## 安装依赖
-
-```bash
+## Project setup
+```
 yarn install
 ```
 
-### 编译并启用热重载
-
-```bash
+### Compiles and hot-reloads for development
+```
 yarn serve
 ```
 
-### 构建用于产品的产物
-
-```bash
+### Compiles and minifies for production
+```
 yarn build
 ```
 
-### 运行静态检查并修复
-
-```bash
+### Lints and fixes files
+```
 yarn lint
 ```
 
 ### Customize configuration
-
 See [Configuration Reference](https://cli.vuejs.org/config/).
